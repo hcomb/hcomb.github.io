@@ -90,3 +90,9 @@ body {
   margin: 0 auto;
   text-align: center;
 }
+.bee {
+  background-image: url('bee.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
